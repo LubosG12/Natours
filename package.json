@@ -1,0 +1,14 @@
+{
+  "name": "css-natours",
+  "version": "1.0.0",
+  "description": "SASS and CSS Project",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Lubomir Furinda",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
